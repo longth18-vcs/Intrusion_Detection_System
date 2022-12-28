@@ -64,8 +64,8 @@ IDS and firewall both are related to network security but an IDS differs from a 
 
   ## :blossom: ‎ <samp> INSTALLATION </samp>
 <details>
-<summary><b>Install on Linux</b></summary>
-  
+<summary><b>Install snort on Linux</b></summary>
+ <summary><b>What is snort </b></summary> 
 * Make sure you have python installed on your computer
   
 * Run the tool with Python the automatic installation will start
