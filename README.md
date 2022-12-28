@@ -64,14 +64,23 @@ IDS and firewall both are related to network security but an IDS differs from a 
 
   ## :blossom: ‎ <samp> INSTALLATION </samp>
 <details>
-<summary><b>Install snort on Linux</b></summary>
- <summary><b>What is snort </b></summary> 
-* Make sure you have python installed on your computer
-  
-* Run the tool with Python the automatic installation will start
+<summary><b>Install IDS on Linux ussing Snort </b></summary>
+<summary><b>What is snort </b></summary> 
+SNORT is a network based intrusion detection system which is written in C programming language. It was developed in 1998 by Martin Roesch. Now it is developed by Cisco. It is free open-source software. It can also be used as a packet sniffer to monitor the system in real time. The network admin can use it to watch all the incoming packets and find the ones which are dangerous to the system. It is based on library packet capture tool. The rules are fairly easy to create and implement and it can be deployed in any kind of operating system and any kind of network environment. The main reason of the popularity of this IDS over others is that it is a free-to-use software and also open source because of which any user can be able to use it as the way he wants. 
+Features: 
+
++ Real-time traffic monitor
++ Packet logging
++ Analysis of protocol
++ Content matching
++ OS fingerprinting
++ Can be installed in any network environment.
++ Creates logs
++ Open Source
++ Rules are easy to implement
 </details>
 <details>
-<summary><b>Install for Windows</b></summary>
+<summary><b>Install for Linux </b></summary>
   
 * You must enable the Linux WSL feature to use the tool
 </details>
